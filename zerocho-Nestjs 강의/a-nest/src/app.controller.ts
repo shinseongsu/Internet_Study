@@ -7,11 +7,11 @@ export class AppController {
 
   @Get('user') // GET /abc/user
   getHello(): string {
-    return this.appService.getHello();
+    return this.appService.getUser();
   }
 
   @Post('user') // POST /abc/user
   postHello(): string {
-    return this.appService.getHello();
+    return this.appService.postUser();
   }
 }
