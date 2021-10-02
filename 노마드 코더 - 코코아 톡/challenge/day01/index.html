@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width" />
+    <title>Create An Account</title>
+  </head>
+  <body>
+    <h1>Create An Account</h1>
+
+    <form>
+        <label for="first-name">First name</label>
+        <input type="text" required id="first-name" placeholder="First name" />
+      <br>
+
+        <label for="last-name">Last name</label>
+        <input type="text" required id="last-name" placeholder="Last name" />
+      <br>
+
+        <label for="email">Email</label>
+        <input type="email" required id="email" placeholder="Email" />
+      <br>
+
+        <label for="username">Username</label>
+        <input type="text" required id="username" placeholder="Username" />
+      <br>
+
+        <label for="password">Password</label>
+        <input
+          type="password"
+          required
+          id="password"
+          minlength="10"
+          placeholder="Password"
+        />
+      <br>
+
+        <label for="birth-date">Birth date</label>
+        <input type="date" required id="birth-date" />
+      <br>
+
+        <label for="happy">How happy are you?</label>
+        <input type="range" required id="happy" list="steplist" />
+        <datalist id="steplist">
+          <option value="0"></option>
+          <option value="10"></option>
+          <option value="20"></option>
+          <option value="30"></option>
+          <option value="40"></option>
+          <option value="50"></option>
+          <option value="60"></option>
+          <option value="70"></option>
+          <option value="80"></option>
+          <option value="90"></option>
+          <option value="100"></option>
+        </datalist>
+      <br>
+
+        <label for="color">What is your fav. color?</label>
+        <input type="color" required id="color" />
+      <br>
+
+      <input type="submit" value="Create Account" />
+    </form>
+  </body>
+</html>
