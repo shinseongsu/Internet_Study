@@ -26,9 +26,10 @@
         <dependency>
             <groupId>com.example</groupId>
             <artifactId>di</artifactId>
+            <version>1.0.0</version>
 <!--            <version>1.0.0.RELEASE</version>-->
             <scope>system</scope>
-            <systemPath>${basedir}/main/java/com/example/reosurces/lib/di-1.0.0.RELEASE.jar</systemPath>
+            <systemPath>${basedir}/src/main/resources/lib/di-1.0.0.RELEASE.jar</systemPath>
              </dependency>
     </dependencies>
 
