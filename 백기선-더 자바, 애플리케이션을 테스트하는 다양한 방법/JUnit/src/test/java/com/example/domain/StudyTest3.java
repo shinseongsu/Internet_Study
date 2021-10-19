@@ -1,5 +1,7 @@
 package com.example.domain;
 
+import com.example.tag.FastTest;
+import com.example.tag.SlowTest;
 import org.junit.jupiter.api.DisplayName;
 import org.junit.jupiter.api.Tag;
 import org.junit.jupiter.api.Test;
@@ -22,6 +24,20 @@ public class StudyTest3 {
     public void 서브_테스트() throws Exception{
         Thread.sleep(10000);
         System.out.println("서브_테스트");
+    }
+
+    @FastTest
+    @DisplayName("FastTest test")
+    public void FastTest() {
+        Study actual = new Study(10);
+        assertThat(actual.getLimit()).isGreaterThan(0);
+        System.out.println("FastTest 실행");
+    }
+
+    @SlowTest
+    @DisplayName("SlowTest slow")
+    public void SlowTest() {
+        System.out.println("SlowTest 실행");
     }
 
 }
