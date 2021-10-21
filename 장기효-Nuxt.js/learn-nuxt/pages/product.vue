@@ -1,6 +1,10 @@
 <template>
   <div>
-    <p>넉스트 시작하기</p>
+    <ul>
+      <li>상품 1</li>
+      <li>상품 2</li>
+      <li>상품 3</li>
+    </ul>
   </div>
 </template>
 
