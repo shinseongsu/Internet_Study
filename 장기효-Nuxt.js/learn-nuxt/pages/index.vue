@@ -2,7 +2,7 @@
   <div class="app">
     <main>
       <div>
-        <input type="text" />
+        <SearchInput></SearchInput>
       </div>
       <ul>
         <li
@@ -26,8 +26,10 @@
 
 <script>
 import axios from 'axios'
+import SearchInput from '@/components/SearchInput.vue'
 
 export default {
+  components: { SearchInput },
   async asyncData() {
     const response = await axios.get('http://localhost:3000/products')
     console.log(response)
