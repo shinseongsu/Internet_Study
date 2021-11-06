@@ -1,19 +1,29 @@
-com/phangil/houseutils/HouseUtilsApplication.java
- com.phangil.houseutils.HouseUtilsApplication
+com/phangil/houseutils/exception/HouseUtilsException.java
+ com.phangil.houseutils.exception.HouseUtilsException
+com/phangil/houseutils/service/ApartmentService.java
+ com.phangil.houseutils.service.ApartmentService
+com/phangil/houseutils/constants/ActionType.java
+ com.phangil.houseutils.constants.ActionType
+com/phangil/houseutils/exception/ErrorCode.java
+ com.phangil.houseutils.exception.ErrorCode
 com/phangil/houseutils/controller/HealthCheckController.java
  com.phangil.houseutils.controller.HealthCheckController
+com/phangil/houseutils/repository/ApartmentRepository.java
+ com.phangil.houseutils.repository.ApartmentRepository
 com/phangil/houseutils/controller/BrokerageQueryController.java
  com.phangil.houseutils.controller.BrokerageQueryController
+com/phangil/houseutils/policy/BrokeragePolicy.java
+ com.phangil.houseutils.policy.BrokeragePolicy
+com/phangil/houseutils/policy/BrokerageRule.java
+ com.phangil.houseutils.policy.BrokerageRule
+com/phangil/houseutils/entity/Apartment.java
+ com.phangil.houseutils.entity.Apartment
+com/phangil/houseutils/HouseUtilsApplication.java
+ com.phangil.houseutils.HouseUtilsApplication
+com/phangil/houseutils/policy/RentBrokeragePolicy.java
+ com.phangil.houseutils.policy.RentBrokeragePolicy
 com/phangil/houseutils/policy/BrokeragePolicyFactory.java
  com.phangil.houseutils.policy.BrokeragePolicyFactory
  com.phangil.houseutils.policy.BrokeragePolicyFactory$1
-com/phangil/houseutils/policy/BrokerageRule.java
- com.phangil.houseutils.policy.BrokerageRule
 com/phangil/houseutils/policy/PurchaseBrokeragePolicy.java
  com.phangil.houseutils.policy.PurchaseBrokeragePolicy
-com/phangil/houseutils/policy/RentBrokeragePolicy.java
- com.phangil.houseutils.policy.RentBrokeragePolicy
-com/phangil/houseutils/constants/ActionType.java
- com.phangil.houseutils.constants.ActionType
-com/phangil/houseutils/policy/BrokeragePolicy.java
- com.phangil.houseutils.policy.BrokeragePolicy

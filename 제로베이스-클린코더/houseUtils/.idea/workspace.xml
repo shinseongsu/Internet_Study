@@ -20,6 +20,30 @@
       <change beforePath="$PROJECT_DIR$/../../백기선-더자바/.idea/StickySelectionHighlights.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../백기선-더자바/.idea/StickySelectionHighlights.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../백기선-더자바/.idea/csv-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../백기선-더자바/.idea/csv-plugin.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../백기선-더자바/.idea/백기선-더자바.iml" beforeDir="false" afterPath="$PROJECT_DIR$/../../백기선-더자바/.idea/백기선-더자바.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.2/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.2/executionHistory/executionHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.2/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.2/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.2/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.2/fileHashes/fileHashes.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.2/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.2/fileHashes/fileHashes.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.2/javaCompile/classAnalysis.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.2/javaCompile/classAnalysis.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.2/javaCompile/javaCompile.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.2/javaCompile/javaCompile.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/6.8.2/javaCompile/taskHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/6.8.2/javaCompile/taskHistory.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/cache.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/outputFiles.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StickySelectionHighlights.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/phangil/houseutils/controller/BrokerageQueryController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/phangil/houseutils/controller/BrokerageQueryController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/phangil/houseutils/controller/HealthCheckController.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/phangil/houseutils/controller/HealthCheckController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/phangil/houseutils/policy/BrokeragePolicyFactory$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/phangil/houseutils/policy/BrokeragePolicyFactory$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/phangil/houseutils/policy/BrokeragePolicyFactory.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/phangil/houseutils/policy/BrokeragePolicyFactory.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/classes/java/main/com/phangil/houseutils/policy/BrokerageRule.class" beforeDir="false" afterPath="$PROJECT_DIR$/build/classes/java/main/com/phangil/houseutils/policy/BrokerageRule.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" beforeDir="false" afterPath="$PROJECT_DIR$/build/tmp/compileJava/source-classes-mapping.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/phangil/houseutils/controller/BrokerageQueryController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/phangil/houseutils/controller/BrokerageQueryController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/phangil/houseutils/controller/HealthCheckController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/phangil/houseutils/controller/HealthCheckController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/phangil/houseutils/policy/BrokeragePolicyFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/phangil/houseutils/policy/BrokeragePolicyFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/phangil/houseutils/policy/BrokerageRule.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/phangil/houseutils/policy/BrokerageRule.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../코드플러스-알고리즘 기초-1/dp2/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../코드플러스-알고리즘 기초-1/dp2/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,8 +58,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Enum" />
         <option value="Interface" />
+        <option value="Enum" />
         <option value="Class" />
       </list>
     </option>
@@ -59,7 +83,7 @@
       <recent name="com.phangil.houseutils.policy" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Gradle.BrokeragePolicyTest.testRentBrokeragePolicy">
     <configuration name="HouseUtilsApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.phangil.houseutils.HouseUtilsApplication" />
       <module name="houseUtils.main" />
@@ -73,8 +97,52 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BrokeragePolicyTest.testPurchaseBrokeragePolicy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.phangil.houseutils.policy.BrokeragePolicyTest.testPurchaseBrokeragePolicy&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="BrokeragePolicyTest.testRentBrokeragePolicy" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;com.phangil.houseutils.policy.BrokeragePolicyTest.testRentBrokeragePolicy&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <ExternalSystemDebugServerProcess>false</ExternalSystemDebugServerProcess>
+      <ExternalSystemReattachDebugProcess>true</ExternalSystemReattachDebugProcess>
+      <DebugAllEnabled>false</DebugAllEnabled>
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Gradle.BrokeragePolicyTest.testRentBrokeragePolicy" />
+        <item itemvalue="Gradle.BrokeragePolicyTest.testPurchaseBrokeragePolicy" />
         <item itemvalue="Application.HouseUtilsApplication" />
       </list>
     </recent_temporary>
