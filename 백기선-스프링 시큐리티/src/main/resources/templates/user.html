@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="ko" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8" />
+    <title>User page</title>
+</head>
+<body>
+<h1 th:text="${message}">User</h1>
+<tr th:each="book : ${books}">
+    <th>
+        <span th:text="${book.title}">Title</span>
+    </th>
+</tr>
+</body>
+</html>
