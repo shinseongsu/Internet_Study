@@ -1,0 +1,41 @@
+Arguments: 
+  /Users/mac/.nvm/versions/node/v15.11.0/bin/node /usr/local/Cellar/yarn/1.17.3/libexec/bin/yarn.js add react react-dom next nods-sass axios
+
+PATH: 
+  /Users/mac/.rvm/gems/ruby-2.5.0/bin:/Users/mac/.rvm/gems/ruby-2.5.0@global/bin:/Users/mac/.rvm/rubies/ruby-2.5.0/bin:/Users/mac/.nvm/versions/node/v15.11.0/bin:/usr/local/bin:/usr/bin:/bin:/usr/sbin:/sbin:/usr/local/go/bin:/usr/local/share/dotnet:~/.dotnet/tools:/Library/Apple/usr/bin:/Library/Frameworks/Mono.framework/Versions/Current/Commands:/Users/mac/opt/anaconda3/bin:/Users/mac/opt/anaconda3/condabin:/Users/mac/.rvm/gems/ruby-2.5.0/bin:/Users/mac/.rvm/gems/ruby-2.5.0@global/bin:/Users/mac/.rvm/rubies/ruby-2.5.0/bin:/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/bin:/usr/local/mongodb/bin:/Users/mac/Downloads/apache-maven-3.6.2-bin/apache-maven-3.6.2/bin:/Users/mac/Downloads/gradle-6.8.2-all/gradle-6.8.2/bin:/Users/mac/Downloads/spring-boot-cli-1.1.4.RELEASE-bin/spring-1.1.4.RELEASE/bin:/Users/mac/Library/Android/sdk/emulator:/Users/mac/Library/Android/sdk/tools:/Users/mac/Library/Android/sdk/tools/bin:/Users/mac/Library/Android/sdk/platform-tools:/Users/mac/.rvm/bin:/Library/Java/JavaVirtualMachines/jdk-11.0.2.jdk/Contents/Home/bin:/usr/local/mongodb/bin:/Users/mac/Downloads/apache-maven-3.6.2-bin/apache-maven-3.6.2/bin:/Users/mac/Downloads/gradle-6.8.2-all/gradle-6.8.2/bin:/Users/mac/Downloads/spring-boot-cli-1.1.4.RELEASE-bin/spring-1.1.4.RELEASE/bin:/Users/mac/Library/Android/sdk/emulator:/Users/mac/Library/Android/sdk/tools:/Users/mac/Library/Android/sdk/tools/bin:/Users/mac/Library/Android/sdk/platform-tools
+
+Yarn version: 
+  1.17.3
+
+Node version: 
+  15.11.0
+
+Platform: 
+  darwin x64
+
+Trace: 
+  Error: https://registry.yarnpkg.com/nods-sass: Not found
+      at Request.params.callback [as _callback] (/usr/local/Cellar/yarn/1.17.3/libexec/lib/cli.js:66830:18)
+      at Request.self.callback (/usr/local/Cellar/yarn/1.17.3/libexec/lib/cli.js:140464:22)
+      at Request.emit (node:events:378:20)
+      at Request.<anonymous> (/usr/local/Cellar/yarn/1.17.3/libexec/lib/cli.js:141436:10)
+      at Request.emit (node:events:378:20)
+      at IncomingMessage.<anonymous> (/usr/local/Cellar/yarn/1.17.3/libexec/lib/cli.js:141358:12)
+      at Object.onceWrapper (node:events:484:28)
+      at IncomingMessage.emit (node:events:390:22)
+      at endReadableNT (node:internal/streams/readable:1307:12)
+      at processTicksAndRejections (node:internal/process/task_queues:81:21)
+
+npm manifest: 
+  {
+    "name": "client",
+    "version": "1.0.0",
+    "main": "index.js",
+    "license": "MIT"
+  }
+
+yarn manifest: 
+  No manifest
+
+Lockfile: 
+  No lockfile
