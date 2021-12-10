@@ -1,0 +1,7 @@
+thread/creation/example/Main.java
+ thread.creation.example.Main
+ thread.creation.example.Main$1
+thread/creation/example/Main2.java
+ thread.creation.example.Main2
+ thread.creation.example.Main2$1
+ thread.creation.example.Main2$2
