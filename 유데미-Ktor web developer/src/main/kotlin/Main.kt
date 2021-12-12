@@ -10,25 +10,26 @@ import io.ktor.server.netty.*
 fun main() {
     val port = 8080
 
-    val server = embeddedServer(Netty, port) {
-        install(ContentNegotiation) {
-            jackson {
-                enable(SerializationFeature.INDENT_OUTPUT)
-            }
-        }
-
-        routing {
-            get {
-                context.respond(mapOf("Welcome" to "our Cat Hostel"))
-            }
-            get("/{name}") {
-                val name = call.parameters["name"]
-                context.respond(mapOf("Cat name:" to name))
-            }
-        }
-
-    }
+    val server = embeddedServer(Netty, port, module = Application::mainModule)
 
     server.start()
 
+}
+
+fun Application.mainModule() {
+    install(ContentNegotiation) {
+        jackson {
+            enable(SerializationFeature.INDENT_OUTPUT)
+        }
+    }
+
+    routing {
+        get {
+            context.respond(mapOf("Welcome" to "our Cat Hostel"))
+        }
+        get("/{name}") {
+            val name = call.parameters["name"]
+            context.respond(mapOf("Cat name:" to name))
+        }
+    }
 }
